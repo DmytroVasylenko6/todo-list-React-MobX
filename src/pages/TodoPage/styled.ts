@@ -8,6 +8,7 @@ export const StyledPageContainer = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-decoration: none;
 `;
 
 export const StyledPageTitle = styled.h1`
